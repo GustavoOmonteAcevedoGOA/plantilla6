@@ -12,7 +12,7 @@
       Code
     </a>
     <span> | </span>
-    <a href="https://blogcoffee.netlify.app/">
+    <a href="https://siteblogcoffee.netlify.app/">
       Demo
     </a>
     
